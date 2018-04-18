@@ -2,9 +2,10 @@ Programming Cable
 =========
 
 ![Programming Cable](ProgrammingCable.png)  
-The Programming Cable is the hardware connection for programming and communication with [Uart WiFi Board](https://github.com/NaoNaoMe/Uart-WiFi-Board). 
+The Programming Cable is the hardware connection for programming and communication with [Uart WiFi Board](https://github.com/NaoNaoMe/Uart-WiFi-Board).   
 
 Wiring diagram
+
 | PH Connector  | XH Connector  |
 | ------------- | ------------- |
 | 1             | 1             |
